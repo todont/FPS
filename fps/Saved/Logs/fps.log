@@ -2589,3 +2589,573 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.11-22.35.04:206][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/FirstPersonBP/FirstPersonCharacter]
 [2020.12.11-22.35.04:290][943]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/FirstPersonCharacter_Auto5A8E07A4B452B0DC929BEF5B7E7948B29.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/Autosaves/Game/Blueprints/FirstPersonBP/FirstPersonCharacter_Auto5.uasset'
 [2020.12.11-22.35.04:291][943]LogFileHelpers: Auto-saving content packages took 0.099
+[2020.12.11-23.08.01:274][759]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.11-23.08.01:274][759]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.11-23.08.09:307][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.12.11-23.08.09:740][931]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/ThirdPersonExampleMap7178EC24420899BA8C5979BA8A4B5576.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/ThirdPersonExampleMap.umap'
+[2020.12.11-23.08.10:249][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ThirdPersonExampleMap_BuiltData" FILE="../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2020.12.11-23.08.11:832][931]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/ThirdPersonExampleMap_BuiltData27C9933249BFB22842CD59ADAA82CB00.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.12.11-23.08.12:036][931]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.11-23.08.12:036][931]LogContentValidation: Display: Validating World /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.12.11-23.08.12:036][931]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.12.11-23.08.13:131][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.12.11-23.08.15:092][975]LogSlate: Window 'Save Content' being destroyed
+[2020.12.11-23.08.15:161][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/VREditor/BasicMeshes/M_Floor_01" FILE="../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset" SILENT=true
+[2020.12.11-23.08.15:202][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Floor_01EBF425CF42157D229CC09E9F01DF2433.tmp' to '../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset'
+[2020.12.11-23.08.15:256][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_1M_Cube_M_Floor_01_557EF5C24D4CAD6D55C4C209487F2CA068C1828EE8E.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_1M_Cube_M_Floor_01_557EF5C24D47E8F8B2BBC88644E1A2DD.uasset'
+[2020.12.11-23.08.15:305][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_1M_Cube_M_Floor_01_6FFE1D5B4556873F5AC4191EF578558D7A270487261.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_1M_Cube_M_Floor_01_6FFE1D5B455E304F882B56873335F1E4.uasset'
+[2020.12.11-23.08.15:353][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_1M_Cube_MI_Ball_01_003900FE4A978A8EBB34E7DD12BAFB25D9B464C9297.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_1M_Cube_MI_Ball_01_003900FE4A92059E239CC8BFB5F3D2ED.uasset'
+[2020.12.11-23.08.15:429][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_1M_Cube_MI_Ball_01_22E928FF4707B7B66944BAD8FF93D99888394E213C2.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_1M_Cube_MI_Ball_01_22E928FF4704086671DD51B886E768DF.uasset'
+[2020.12.11-23.08.15:489][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_1M_Cube_MI_Ball_01_6851D9C146583560A964816E5E5DFED11AEB2387CB4.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_1M_Cube_MI_Ball_01_6851D9C1465FB9282C1928A5E5661DC2.uasset'
+[2020.12.11-23.08.15:522][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_1M_Cube_MI_Ball_01_6DB89AD54EBCA27140B48DB0C4F83F25EA429AAABE6.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_1M_Cube_MI_Ball_01_6DB89AD54EB24D8FD11E2C82F5117FC9.uasset'
+[2020.12.11-23.08.15:548][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_1M_Cube_MI_Ball_01_6E28378C42F63FF709A42C735AF67C783B5E2B08C89.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_1M_Cube_MI_Ball_01_6E28378C42FAFDCD5964E79058743F4E.uasset'
+[2020.12.11-23.08.15:586][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_1M_Cube_MI_Ball_01_86B4772D43F5CF85FA14CD3A5F5B7E97BBBC34F32BE.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_1M_Cube_MI_Ball_01_86B4772D43F73D6289D6088DAAA23F0E.uasset'
+[2020.12.11-23.08.15:593][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_1M_Cube_MI_Ball_01_8877EBE046788318FA7424A65816094328E935862B0.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_1M_Cube_MI_Ball_01_8877EBE046740C073195118DFA205A93.uasset'
+[2020.12.11-23.08.15:661][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_1M_Cube_MI_Ball_01_B93C8BE74788304A6094091DA9267721098BE080115.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_1M_Cube_MI_Ball_01_B93C8BE7478913EA1446058BB02EAD12.uasset'
+[2020.12.11-23.08.15:728][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_1M_Cube_MI_Ball_01_BD3523084B1833FF3D248ADD12C319D5893D030B369.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_1M_Cube_MI_Ball_01_BD3523084B19FACBFAD2F49A63CD1C00.uasset'
+[2020.12.11-23.08.15:734][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_1M_Cube_MI_Ball_01_C37F4721411B3472580432BA68E49C5D0B01A18D6F5.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_1M_Cube_MI_Ball_01_C37F4721411BFABCD84E51A3019FB398.uasset'
+[2020.12.11-23.08.15:750][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_1M_Cube_MI_Ball_01_D626BBCD48BC9CA4FF84A9138885F2CD8B06C0E1538.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_1M_Cube_MI_Ball_01_D626BBCD48BC2987EAC6CDAEC8FEEAA7.uasset'
+[2020.12.11-23.08.15:792][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_1M_Cube_MI_Ball_01_E307EDDD4A8A4E43FD546420BC6191B46A0BB00EAE1.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_1M_Cube_MI_Ball_01_E307EDDD4A87A7E6077658B3685D2BA3.uasset'
+[2020.12.11-23.08.15:800][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_1M_Cube_MI_Ball_01_FDDAB3D0430715270124099D40E0D33D6AC3165C6DA.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_1M_Cube_MI_Ball_01_FDDAB3D04302C65EB5C1CF9E4A377915.uasset'
+[2020.12.11-23.08.15:807][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Bump_StaticMesh_M_Basic_Wall_72A231B7949CA0D42ADF0948530547502.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Bump_StaticMesh_M_Basic_Wall_77F2AF21461261ED3FAB46A752A2F675.uasset'
+[2020.12.11-23.08.15:808][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Exapmples/M_Floor_01" FILE="../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Floor_01.uasset" SILENT=true
+[2020.12.11-23.08.15:836][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Floor_01428F10FB416378C6E7E10E9195E24EF5.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Floor_01.uasset'
+[2020.12.11-23.08.15:854][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Floor_400x400_M_Basic_Floor_6CD21763E34D0F04F6ACE60A8EE774C01B.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Floor_400x400_M_Basic_Floor_6CBF935A47C8569000400CA791BB90F5.uasset'
+[2020.12.11-23.08.15:867][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_LeftArm_StaticMesh_RampMateria29C2BF9A4A88F7A546FA42805A2C0E4F.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_LeftArm_StaticMesh_RampMaterial_A3EC989A4F369CCA7FC52182A27F95A6.uasset'
+[2020.12.11-23.08.15:900][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Linear_Stair_StaticMesh_RampMa746AE6954631F90370A4D3A706BFE7B3.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Linear_Stair_StaticMesh_RampMaterial_4800C6464671A7112D03CDBEDA7DDEF3.uasset'
+[2020.12.11-23.08.15:907][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Pillar_50x500_M_Basic_Wall_0874ED944BE4B41D80006073AA20DA12CBD.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Pillar_50x500_M_Basic_Wall_08704A5E451F9713C362CA8BED47D1E8.uasset'
+[2020.12.11-23.08.15:913][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Pillar_50x500_M_Basic_Wall_20DBB99387A4DAB2F30E0E313B275CEF463.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Pillar_50x500_M_Basic_Wall_20D657F448F8904AA620B88BF258528D.uasset'
+[2020.12.11-23.08.15:944][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Pillar_50x500_M_Basic_Wall_2EA1AADBEF148B1BB4663DE8CB904EC4634.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Pillar_50x500_M_Basic_Wall_2EA5FF5C4669A8921D77C797E692BA81.uasset'
+[2020.12.11-23.08.15:978][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Pillar_50x500_M_Basic_Wall_31550F93287419729995B2CB793358230C7.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Pillar_50x500_M_Basic_Wall_3153C1224C3A935FA2EED495EFED2ADE.uasset'
+[2020.12.11-23.08.15:983][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Pillar_50x500_M_Basic_Wall_77508D0897A49528DC470C848BDF31B413A.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Pillar_50x500_M_Basic_Wall_7753C868449D689969ABF0B2AB4B0769.uasset'
+[2020.12.11-23.08.16:006][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Pillar_50x500_M_Basic_Wall_B6F8D86E4AA4C07111AC0C0BFB38DECDF94.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Pillar_50x500_M_Basic_Wall_B6F7E17545B3E2EA13CC218F20CD0404.uasset'
+[2020.12.11-23.08.16:024][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Pillar_50x500_M_Basic_Wall_CD06B5AE0244BD76E95AA105E8054DB913D.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Pillar_50x500_M_Basic_Wall_CD03F03B4BBB4CABBD1D7AAE63895AAF.uasset'
+[2020.12.11-23.08.16:063][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Pillar_50x500_M_Basic_Wall_CF151E4AEAB4415DDC8EBA713B799E3A1FC.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Pillar_50x500_M_Basic_Wall_CF1CFC564EDFE83A2A93DB8014CB6A54.uasset'
+[2020.12.11-23.08.16:081][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Pillar_50x500_M_Basic_Wall_F08C084B41F459123AE7C8C1686DE1CB779.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Pillar_50x500_M_Basic_Wall_F084261F460258C3EF5BADAAD2A03C2B.uasset'
+[2020.12.11-23.08.16:092][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Ramp_StaticMesh_M_Floor_01_7CF0153C8724B9A3ABB6625BD9F68BE334D.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Ramp_StaticMesh_M_Floor_01_7CFD2D03499E5D4377C916AD0D23D2E8.uasset'
+[2020.12.11-23.08.16:143][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Shape_Trim_M_Basic_Wall_54E1B5AEEBAC7246D0F76DEC98E8B71FA12D84.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Shape_Trim_M_Basic_Wall_54E1B56146099541DCEC0BB73D2C8B47.uasset'
+[2020.12.11-23.08.16:162][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Shape_Tube_M_Basic_Wall_9FA12D8DDBB2B5476DF63696B2D7AFE6CAE2AA.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Shape_Tube_M_Basic_Wall_9FA12DC945826DD4F83D5BB7A88C5ED1.uasset'
+[2020.12.11-23.08.16:192][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Shape_Wedge_A_M_Basic_Wall_537BA725ECA497CD7913E061E934C4D1826.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Shape_Wedge_A_M_Basic_Wall_537AB7584DE93447A92515ABB85283BA.uasset'
+[2020.12.11-23.08.16:199][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Shape_Wedge_B_M_Basic_Wall_315B4C9802E4A0874971969539345749699.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Shape_Wedge_B_M_Basic_Wall_3155F5A34DFA5641593F3DA0AE7CC462.uasset'
+[2020.12.11-23.08.16:219][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Shape_Wedge_B_M_Basic_Wall_81835FA073649E7D5B697640FA14CAE9B08.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Shape_Wedge_B_M_Basic_Wall_8185997040ABC662170340B4956434B9.uasset'
+[2020.12.11-23.08.16:234][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Shape_Wedge_B_M_Basic_Wall_F671EC0C10E4506DCAE1A2B35940F7F0982.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Shape_Wedge_B_M_Basic_Wall_F677041B44BBF7FFF70769A352B717D9.uasset'
+[2020.12.11-23.08.16:259][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_TemplateFloor_CubeMaterial_2E3441B79634181054963344692D5783F68.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_TemplateFloor_CubeMaterial_2E37A9614E94C2F69863469ACEC29C2B.uasset'
+[2020.12.11-23.08.16:262][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_TemplateFloor_M_Floor_01_27BB9D9E3A0034E8DE80D03EC3F915F651BC3.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_TemplateFloor_M_Floor_01_27BB9EBA4F86DE50ED533FABC3326DE2.uasset'
+[2020.12.11-23.08.16:268][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_TemplateFloor_M_Floor_01_D6E5EA593B0E24F3721C8F481A5834A54755D.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_TemplateFloor_M_Floor_01_D6E5E3A141A485BB2EFCC9BB2D4D287B.uasset'
+[2020.12.11-23.08.16:287][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_TemplateFloor_M_Floor_01_FF698F59F7E8649C491C2788CBB938A6FABEA.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_TemplateFloor_M_Floor_01_FF698FD8421BCDA58F0E47B22AAEC9B1.uasset'
+[2020.12.11-23.08.16:294][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Wall_400x300_M_Basic_Wall_6E24AA05623C40195990C40C69B4AD14DB3A.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Wall_400x300_M_Basic_Wall_6E24106141886A812077D1ACDE53413C.uasset'
+[2020.12.11-23.08.16:316][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Wall_400x300_M_Basic_Wall_E116B84C1644432E7A1E29435B824218AB2D.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Wall_400x300_M_Basic_Wall_E116826243675C75187444AA2855F302.uasset'
+[2020.12.11-23.08.16:326][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Wall_400x300_M_Basic_Wall_FAAD58C649E848A2A51FF28B4C95FD355F7D.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Wall_400x300_M_Basic_Wall_FAAD6CDD4A2D49550324B48AAA1288F7.uasset'
+[2020.12.11-23.08.16:333][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Wall_400x300_M_M_Wall_400x300_192711EA4BFC2D24ED523AA4B8D8DFA4.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Wall_400x300_M_M_Wall_400x300_M_Basic_Wall_DE5A1ADE4D9B055B6F7F33B92F82324D_246D1E404082441FCF42A1A32951F074.uasset'
+[2020.12.11-23.08.16:367][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Wall_400x300_MI_Ball_01_064BA0CD18012940AA11CB4EAC6BABCCA811A5.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Wall_400x300_MI_Ball_01_064BA0EB4B2920A5867F9B84082380B2.uasset'
+[2020.12.11-23.08.16:372][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Wall_400x300_MI_Ball_01_355847A54298A542E39346179519934AE54F7C.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Wall_400x300_MI_Ball_01_3558473147297DBD45809982617A2855.uasset'
+[2020.12.11-23.08.16:389][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Wall_400x300_MI_Ball_01_37EE8F89CB037342550AE080BD5AA044B664FC.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Wall_400x300_MI_Ball_01_37EE8F3A4C6F8C925384488972803E7F.uasset'
+[2020.12.11-23.08.16:433][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Wall_400x300_MI_Ball_01_3BB58E2BAEF53046A7AFA87C7D6CAC448E072A.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Wall_400x300_MI_Ball_01_3BB58E55499D3E962A812DAF0B8631F6.uasset'
+[2020.12.11-23.08.16:479][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Wall_400x300_MI_Ball_01_625DFC49A3D41D40233D7639C9F4B7D2B0E003.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Wall_400x300_MI_Ball_01_625DFCBC4BBA045763A287A63FEAACC5.uasset'
+[2020.12.11-23.08.16:485][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Wall_400x300_MI_Ball_01_BB971B9CB3547D4C4E0249DAE59294A47EEFBD.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Wall_400x300_MI_Ball_01_BB971B9F456D9A2B814C2B9F78D5AF4A.uasset'
+[2020.12.11-23.08.16:490][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Wall_500x500_M_Basic_Wall_195928519EE3495469944D7AA3AB37707AE8.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Wall_500x500_M_Basic_Wall_195997964E980F45841DFC8C7186CEA3.uasset'
+[2020.12.11-23.08.16:524][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Wall_500x500_M_Basic_Wall_711BDFE5A16C4291833CAA1A92B0FD6AFFE4.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Wall_500x500_M_Basic_Wall_711BF6064F227F7C16661DA65273C37D.uasset'
+[2020.12.11-23.08.16:555][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Wall_500x500_M_Basic_Wall_A3D7DEC7BCE6490561F8E80AA5B0494C8F13.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Wall_500x500_M_Basic_Wall_A3D7B012485502ABFF41DABF534E6917.uasset'
+[2020.12.11-23.08.16:582][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Wall_500x500_M_Basic_Wall_BC00D10ECC9346A7EC715572AE98B7D85D36.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Wall_500x500_M_Basic_Wall_BC00078D4F6F507DFD2D8598512020D9.uasset'
+[2020.12.11-23.08.16:596][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Wall_500x500_M_Basic_Wall_C0018394AF264480D4FA83FEA4912339303D.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Wall_500x500_M_Basic_Wall_C001C79B466F7F928A21AFBE3DBCD337.uasset'
+[2020.12.11-23.08.16:603][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Wall_Door_400x300_M_M_Wall_Doo81389F4A4CE34BF9E62C1F9485E49D8B.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Wall_Door_400x300_M_M_Wall_Door_400x300_M_Basic_Wall_82F2C71A45668ABF4A2C9681AF5FE40F_A0C059904D89B6C988CC9AAF1694E47F.uasset'
+[2020.12.11-23.08.16:621][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Wall_Door_400x300_MI_Ball_01_115CCFDDD42DF25CE20A6A79A50619311.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Wall_Door_400x300_MI_Ball_01_1F9D5F494BE85389933D10AA86E38EFC.uasset'
+[2020.12.11-23.08.16:644][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Wall_Door_400x300_MI_Ball_01_D8C32A7044C20507675DB278DDBA3EE3D.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Wall_Door_400x300_MI_Ball_01_D02E7E8E4F6166A0E805FF9AF36CC56A.uasset'
+[2020.12.11-23.08.16:649][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Wall_Window_400x300_M_Basic_WaCD8A2BC94C50231B04CC12B4FA7B7149.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Wall_Window_400x300_M_Basic_Wall_3CF15E6E442CFBD019EB25B2DABA7199.uasset'
+[2020.12.11-23.08.16:655][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Wall_Window_400x300_M_Basic_Wa61DBEC244AA57271CE6EE0B5F81D6AA1.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Wall_Window_400x300_M_Basic_Wall_A5ADB23F4EFD7877437DD589C8294BA2.uasset'
+[2020.12.11-23.08.16:668][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Wall_Window_400x300_MI_Ball_011750A131465265ACC17208A4FDC91CB4.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Wall_Window_400x300_MI_Ball_01_08B3F1CF4E8B55388034CC86F36A61FB.uasset'
+[2020.12.11-23.08.16:678][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/M_Wall_Window_400x300_MI_Ball_01BCFB95784DE15DCF308570904CD4AB1F.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/M_Wall_Window_400x300_MI_Ball_01_F43FC0CA4FD032485FDF3F8DB76BFF8E.uasset'
+[2020.12.11-23.08.16:680][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Exapmples/MI_Ball_01" FILE="../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/MI_Ball_01.uasset" SILENT=true
+[2020.12.11-23.08.16:701][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/MI_Ball_019924EC2C4BFABDEED2D62AA151F57011.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Assets/Exapmples/MI_Ball_01.uasset'
+[2020.12.11-23.08.16:750][975]LogSavePackage: Moving '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Saved/FirstPersonCharacterD89E9A9045F571724B07B4AB3EA8E1E8.tmp' to '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Blueprints/FirstPersonBP/FirstPersonCharacter.uasset'
+[2020.12.11-23.08.16:795][975]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2020.12.11-23.08.16:902][975]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.12.11-23.08.16:902][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.11-23.08.17:613][975]LogSlate: Window 'fps - Unreal Editor' being destroyed
+[2020.12.11-23.08.17:636][975]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.11-23.08.19:174][975]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.11-23.08.19:174][975]LogContentValidation: Display: Validating Material /Engine/VREditor/BasicMeshes/M_Floor_01.M_Floor_01
+[2020.12.11-23.08.19:174][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_1M_Cube_M_Floor_01_557EF5C24D47E8F8B2BBC88644E1A2DD.M_M_1M_Cube_M_Floor_01_557EF5C24D47E8F8B2BBC88644E1A2DD
+[2020.12.11-23.08.19:174][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_1M_Cube_M_Floor_01_6FFE1D5B455E304F882B56873335F1E4.M_M_1M_Cube_M_Floor_01_6FFE1D5B455E304F882B56873335F1E4
+[2020.12.11-23.08.19:174][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_1M_Cube_MI_Ball_01_003900FE4A92059E239CC8BFB5F3D2ED.M_M_1M_Cube_MI_Ball_01_003900FE4A92059E239CC8BFB5F3D2ED
+[2020.12.11-23.08.19:174][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_1M_Cube_MI_Ball_01_22E928FF4704086671DD51B886E768DF.M_M_1M_Cube_MI_Ball_01_22E928FF4704086671DD51B886E768DF
+[2020.12.11-23.08.19:174][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_1M_Cube_MI_Ball_01_6851D9C1465FB9282C1928A5E5661DC2.M_M_1M_Cube_MI_Ball_01_6851D9C1465FB9282C1928A5E5661DC2
+[2020.12.11-23.08.19:174][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_1M_Cube_MI_Ball_01_6DB89AD54EB24D8FD11E2C82F5117FC9.M_M_1M_Cube_MI_Ball_01_6DB89AD54EB24D8FD11E2C82F5117FC9
+[2020.12.11-23.08.19:174][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_1M_Cube_MI_Ball_01_6E28378C42FAFDCD5964E79058743F4E.M_M_1M_Cube_MI_Ball_01_6E28378C42FAFDCD5964E79058743F4E
+[2020.12.11-23.08.19:174][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_1M_Cube_MI_Ball_01_86B4772D43F73D6289D6088DAAA23F0E.M_M_1M_Cube_MI_Ball_01_86B4772D43F73D6289D6088DAAA23F0E
+[2020.12.11-23.08.19:174][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_1M_Cube_MI_Ball_01_8877EBE046740C073195118DFA205A93.M_M_1M_Cube_MI_Ball_01_8877EBE046740C073195118DFA205A93
+[2020.12.11-23.08.19:174][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_1M_Cube_MI_Ball_01_B93C8BE7478913EA1446058BB02EAD12.M_M_1M_Cube_MI_Ball_01_B93C8BE7478913EA1446058BB02EAD12
+[2020.12.11-23.08.19:174][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_1M_Cube_MI_Ball_01_BD3523084B19FACBFAD2F49A63CD1C00.M_M_1M_Cube_MI_Ball_01_BD3523084B19FACBFAD2F49A63CD1C00
+[2020.12.11-23.08.19:174][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_1M_Cube_MI_Ball_01_C37F4721411BFABCD84E51A3019FB398.M_M_1M_Cube_MI_Ball_01_C37F4721411BFABCD84E51A3019FB398
+[2020.12.11-23.08.19:174][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_1M_Cube_MI_Ball_01_D626BBCD48BC2987EAC6CDAEC8FEEAA7.M_M_1M_Cube_MI_Ball_01_D626BBCD48BC2987EAC6CDAEC8FEEAA7
+[2020.12.11-23.08.19:174][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_1M_Cube_MI_Ball_01_E307EDDD4A87A7E6077658B3685D2BA3.M_M_1M_Cube_MI_Ball_01_E307EDDD4A87A7E6077658B3685D2BA3
+[2020.12.11-23.08.19:174][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_1M_Cube_MI_Ball_01_FDDAB3D04302C65EB5C1CF9E4A377915.M_M_1M_Cube_MI_Ball_01_FDDAB3D04302C65EB5C1CF9E4A377915
+[2020.12.11-23.08.19:175][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Bump_StaticMesh_M_Basic_Wall_77F2AF21461261ED3FAB46A752A2F675.M_M_Bump_StaticMesh_M_Basic_Wall_77F2AF21461261ED3FAB46A752A2F675
+[2020.12.11-23.08.19:175][975]LogContentValidation: Display: Validating Material /Game/Assets/Exapmples/M_Floor_01.M_Floor_01
+[2020.12.11-23.08.19:175][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Floor_400x400_M_Basic_Floor_6CBF935A47C8569000400CA791BB90F5.M_M_Floor_400x400_M_Basic_Floor_6CBF935A47C8569000400CA791BB90F5
+[2020.12.11-23.08.19:175][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_LeftArm_StaticMesh_RampMaterial_A3EC989A4F369CCA7FC52182A27F95A6.M_M_LeftArm_StaticMesh_RampMaterial_A3EC989A4F369CCA7FC52182A27F95A6
+[2020.12.11-23.08.19:175][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Linear_Stair_StaticMesh_RampMaterial_4800C6464671A7112D03CDBEDA7DDEF3.M_M_Linear_Stair_StaticMesh_RampMaterial_4800C6464671A7112D03CDBEDA7DDEF3
+[2020.12.11-23.08.19:175][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Pillar_50x500_M_Basic_Wall_08704A5E451F9713C362CA8BED47D1E8.M_M_Pillar_50x500_M_Basic_Wall_08704A5E451F9713C362CA8BED47D1E8
+[2020.12.11-23.08.19:175][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Pillar_50x500_M_Basic_Wall_20D657F448F8904AA620B88BF258528D.M_M_Pillar_50x500_M_Basic_Wall_20D657F448F8904AA620B88BF258528D
+[2020.12.11-23.08.19:175][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Pillar_50x500_M_Basic_Wall_2EA5FF5C4669A8921D77C797E692BA81.M_M_Pillar_50x500_M_Basic_Wall_2EA5FF5C4669A8921D77C797E692BA81
+[2020.12.11-23.08.19:175][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Pillar_50x500_M_Basic_Wall_3153C1224C3A935FA2EED495EFED2ADE.M_M_Pillar_50x500_M_Basic_Wall_3153C1224C3A935FA2EED495EFED2ADE
+[2020.12.11-23.08.19:175][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Pillar_50x500_M_Basic_Wall_7753C868449D689969ABF0B2AB4B0769.M_M_Pillar_50x500_M_Basic_Wall_7753C868449D689969ABF0B2AB4B0769
+[2020.12.11-23.08.19:175][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Pillar_50x500_M_Basic_Wall_B6F7E17545B3E2EA13CC218F20CD0404.M_M_Pillar_50x500_M_Basic_Wall_B6F7E17545B3E2EA13CC218F20CD0404
+[2020.12.11-23.08.19:175][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Pillar_50x500_M_Basic_Wall_CD03F03B4BBB4CABBD1D7AAE63895AAF.M_M_Pillar_50x500_M_Basic_Wall_CD03F03B4BBB4CABBD1D7AAE63895AAF
+[2020.12.11-23.08.19:175][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Pillar_50x500_M_Basic_Wall_CF1CFC564EDFE83A2A93DB8014CB6A54.M_M_Pillar_50x500_M_Basic_Wall_CF1CFC564EDFE83A2A93DB8014CB6A54
+[2020.12.11-23.08.19:175][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Pillar_50x500_M_Basic_Wall_F084261F460258C3EF5BADAAD2A03C2B.M_M_Pillar_50x500_M_Basic_Wall_F084261F460258C3EF5BADAAD2A03C2B
+[2020.12.11-23.08.19:175][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Ramp_StaticMesh_M_Floor_01_7CFD2D03499E5D4377C916AD0D23D2E8.M_M_Ramp_StaticMesh_M_Floor_01_7CFD2D03499E5D4377C916AD0D23D2E8
+[2020.12.11-23.08.19:175][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Shape_Trim_M_Basic_Wall_54E1B56146099541DCEC0BB73D2C8B47.M_M_Shape_Trim_M_Basic_Wall_54E1B56146099541DCEC0BB73D2C8B47
+[2020.12.11-23.08.19:175][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Shape_Tube_M_Basic_Wall_9FA12DC945826DD4F83D5BB7A88C5ED1.M_M_Shape_Tube_M_Basic_Wall_9FA12DC945826DD4F83D5BB7A88C5ED1
+[2020.12.11-23.08.19:175][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Shape_Wedge_A_M_Basic_Wall_537AB7584DE93447A92515ABB85283BA.M_M_Shape_Wedge_A_M_Basic_Wall_537AB7584DE93447A92515ABB85283BA
+[2020.12.11-23.08.19:175][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Shape_Wedge_B_M_Basic_Wall_3155F5A34DFA5641593F3DA0AE7CC462.M_M_Shape_Wedge_B_M_Basic_Wall_3155F5A34DFA5641593F3DA0AE7CC462
+[2020.12.11-23.08.19:175][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Shape_Wedge_B_M_Basic_Wall_8185997040ABC662170340B4956434B9.M_M_Shape_Wedge_B_M_Basic_Wall_8185997040ABC662170340B4956434B9
+[2020.12.11-23.08.19:175][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Shape_Wedge_B_M_Basic_Wall_F677041B44BBF7FFF70769A352B717D9.M_M_Shape_Wedge_B_M_Basic_Wall_F677041B44BBF7FFF70769A352B717D9
+[2020.12.11-23.08.19:175][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_TemplateFloor_CubeMaterial_2E37A9614E94C2F69863469ACEC29C2B.M_M_TemplateFloor_CubeMaterial_2E37A9614E94C2F69863469ACEC29C2B
+[2020.12.11-23.08.19:175][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_TemplateFloor_M_Floor_01_27BB9EBA4F86DE50ED533FABC3326DE2.M_M_TemplateFloor_M_Floor_01_27BB9EBA4F86DE50ED533FABC3326DE2
+[2020.12.11-23.08.19:175][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_TemplateFloor_M_Floor_01_D6E5E3A141A485BB2EFCC9BB2D4D287B.M_M_TemplateFloor_M_Floor_01_D6E5E3A141A485BB2EFCC9BB2D4D287B
+[2020.12.11-23.08.19:175][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_TemplateFloor_M_Floor_01_FF698FD8421BCDA58F0E47B22AAEC9B1.M_M_TemplateFloor_M_Floor_01_FF698FD8421BCDA58F0E47B22AAEC9B1
+[2020.12.11-23.08.19:175][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Wall_400x300_M_Basic_Wall_6E24106141886A812077D1ACDE53413C.M_M_Wall_400x300_M_Basic_Wall_6E24106141886A812077D1ACDE53413C
+[2020.12.11-23.08.19:175][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Wall_400x300_M_Basic_Wall_E116826243675C75187444AA2855F302.M_M_Wall_400x300_M_Basic_Wall_E116826243675C75187444AA2855F302
+[2020.12.11-23.08.19:175][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Wall_400x300_M_Basic_Wall_FAAD6CDD4A2D49550324B48AAA1288F7.M_M_Wall_400x300_M_Basic_Wall_FAAD6CDD4A2D49550324B48AAA1288F7
+[2020.12.11-23.08.19:175][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Wall_400x300_M_M_Wall_400x300_M_Basic_Wall_DE5A1ADE4D9B055B6F7F33B92F82324D_246D1E404082441FCF42A1A32951F074.M_M_Wall_400x300_M_M_Wall_400x300_M_Basic_Wall_DE5A1ADE4D9B055B6F7F33B92F82324D_246D1E404082441FCF42A1A32951F074
+[2020.12.11-23.08.19:176][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Wall_400x300_MI_Ball_01_064BA0EB4B2920A5867F9B84082380B2.M_M_Wall_400x300_MI_Ball_01_064BA0EB4B2920A5867F9B84082380B2
+[2020.12.11-23.08.19:176][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Wall_400x300_MI_Ball_01_3558473147297DBD45809982617A2855.M_M_Wall_400x300_MI_Ball_01_3558473147297DBD45809982617A2855
+[2020.12.11-23.08.19:176][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Wall_400x300_MI_Ball_01_37EE8F3A4C6F8C925384488972803E7F.M_M_Wall_400x300_MI_Ball_01_37EE8F3A4C6F8C925384488972803E7F
+[2020.12.11-23.08.19:176][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Wall_400x300_MI_Ball_01_3BB58E55499D3E962A812DAF0B8631F6.M_M_Wall_400x300_MI_Ball_01_3BB58E55499D3E962A812DAF0B8631F6
+[2020.12.11-23.08.19:176][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Wall_400x300_MI_Ball_01_625DFCBC4BBA045763A287A63FEAACC5.M_M_Wall_400x300_MI_Ball_01_625DFCBC4BBA045763A287A63FEAACC5
+[2020.12.11-23.08.19:176][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Wall_400x300_MI_Ball_01_BB971B9F456D9A2B814C2B9F78D5AF4A.M_M_Wall_400x300_MI_Ball_01_BB971B9F456D9A2B814C2B9F78D5AF4A
+[2020.12.11-23.08.19:176][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Wall_500x500_M_Basic_Wall_195997964E980F45841DFC8C7186CEA3.M_M_Wall_500x500_M_Basic_Wall_195997964E980F45841DFC8C7186CEA3
+[2020.12.11-23.08.19:176][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Wall_500x500_M_Basic_Wall_711BF6064F227F7C16661DA65273C37D.M_M_Wall_500x500_M_Basic_Wall_711BF6064F227F7C16661DA65273C37D
+[2020.12.11-23.08.19:176][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Wall_500x500_M_Basic_Wall_A3D7B012485502ABFF41DABF534E6917.M_M_Wall_500x500_M_Basic_Wall_A3D7B012485502ABFF41DABF534E6917
+[2020.12.11-23.08.19:176][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Wall_500x500_M_Basic_Wall_BC00078D4F6F507DFD2D8598512020D9.M_M_Wall_500x500_M_Basic_Wall_BC00078D4F6F507DFD2D8598512020D9
+[2020.12.11-23.08.19:176][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Wall_500x500_M_Basic_Wall_C001C79B466F7F928A21AFBE3DBCD337.M_M_Wall_500x500_M_Basic_Wall_C001C79B466F7F928A21AFBE3DBCD337
+[2020.12.11-23.08.19:176][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Wall_Door_400x300_M_M_Wall_Door_400x300_M_Basic_Wall_82F2C71A45668ABF4A2C9681AF5FE40F_A0C059904D89B6C988CC9AAF1694E47F.M_M_Wall_Door_400x300_M_M_Wall_Door_400x300_M_Basic_Wall_82F2C71A45668ABF4A2C9681AF5FE40F_A0C059904D89B6C988CC9AAF1694E47F
+[2020.12.11-23.08.19:176][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Wall_Door_400x300_MI_Ball_01_1F9D5F494BE85389933D10AA86E38EFC.M_M_Wall_Door_400x300_MI_Ball_01_1F9D5F494BE85389933D10AA86E38EFC
+[2020.12.11-23.08.19:176][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Wall_Door_400x300_MI_Ball_01_D02E7E8E4F6166A0E805FF9AF36CC56A.M_M_Wall_Door_400x300_MI_Ball_01_D02E7E8E4F6166A0E805FF9AF36CC56A
+[2020.12.11-23.08.19:176][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Wall_Window_400x300_M_Basic_Wall_3CF15E6E442CFBD019EB25B2DABA7199.M_M_Wall_Window_400x300_M_Basic_Wall_3CF15E6E442CFBD019EB25B2DABA7199
+[2020.12.11-23.08.19:176][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Wall_Window_400x300_M_Basic_Wall_A5ADB23F4EFD7877437DD589C8294BA2.M_M_Wall_Window_400x300_M_Basic_Wall_A5ADB23F4EFD7877437DD589C8294BA2
+[2020.12.11-23.08.19:176][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Wall_Window_400x300_MI_Ball_01_08B3F1CF4E8B55388034CC86F36A61FB.M_M_Wall_Window_400x300_MI_Ball_01_08B3F1CF4E8B55388034CC86F36A61FB
+[2020.12.11-23.08.19:176][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/M_Wall_Window_400x300_MI_Ball_01_F43FC0CA4FD032485FDF3F8DB76BFF8E.M_M_Wall_Window_400x300_MI_Ball_01_F43FC0CA4FD032485FDF3F8DB76BFF8E
+[2020.12.11-23.08.19:176][975]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Exapmples/MI_Ball_01.MI_Ball_01
+[2020.12.11-23.08.19:176][975]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FirstPersonBP/FirstPersonCharacter.FirstPersonCharacter
+[2020.12.11-23.08.19:511][976]Cmd: QUIT_EDITOR
+[2020.12.11-23.08.19:512][976]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.12.11-23.08.19:562][976]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.12.11-23.08.21:094][976]LogExit: Preparing to exit.
+[2020.12.11-23.08.23:948][976]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.12.11-23.08.23:951][976]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.12.11-23.08.23:953][976]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.11-23.08.23:955][976]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.12.11-23.08.23:956][976]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.12.11-23.08.24:926][976]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.12.11-23.08.25:654][976]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.11-23.08.25:655][976]LogExit: Editor shut down
+[2020.12.11-23.08.25:817][976]LogExit: Transaction tracking system shut down
+[2020.12.11-23.08.28:401][976]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000001DF5DCCD840), frame # 179976
+[2020.12.11-23.08.28:401][976]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DF5DC502C0), frame # 179976
+[2020.12.11-23.08.28:403][976]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DF5DC5DE00), frame # 179976
+[2020.12.11-23.08.29:473][976]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DF6B79DA00), frame # 179976
+[2020.12.11-23.08.29:473][976]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DF56198900), frame # 179976
+[2020.12.11-23.08.30:592][976]LogExit: Object subsystem successfully closed.
+[2020.12.11-23.08.30:796][976]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.12.11-23.08.31:319][976]LogModuleManager: Shutting down and abandoning module BlueprintGraph (800)
+[2020.12.11-23.08.31:319][976]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (798)
+[2020.12.11-23.08.31:319][976]LogModuleManager: Shutting down and abandoning module Voice (796)
+[2020.12.11-23.08.31:319][976]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (794)
+[2020.12.11-23.08.31:319][976]LogModuleManager: Shutting down and abandoning module SceneOutliner (792)
+[2020.12.11-23.08.31:319][976]LogModuleManager: Shutting down and abandoning module AddContentDialog (790)
+[2020.12.11-23.08.31:701][976]LogModuleManager: Shutting down and abandoning module WidgetCarousel (789)
+[2020.12.11-23.08.31:701][976]LogModuleManager: Shutting down and abandoning module EditorWidgets (786)
+[2020.12.11-23.08.31:701][976]LogModuleManager: Shutting down and abandoning module CollectionManager (784)
+[2020.12.11-23.08.31:703][976]LogModuleManager: Shutting down and abandoning module StatsViewer (782)
+[2020.12.11-23.08.31:726][976]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (780)
+[2020.12.11-23.08.31:726][976]LogModuleManager: Shutting down and abandoning module FoliageEdit (778)
+[2020.12.11-23.08.31:727][976]LogModuleManager: Shutting down and abandoning module LandscapeEditor (776)
+[2020.12.11-23.08.31:735][976]LogModuleManager: Shutting down and abandoning module MeshPaintMode (774)
+[2020.12.11-23.08.31:735][976]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (772)
+[2020.12.11-23.08.31:735][976]LogModuleManager: Shutting down and abandoning module ActorPickerMode (770)
+[2020.12.11-23.08.31:735][976]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (768)
+[2020.12.11-23.08.31:739][976]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (766)
+[2020.12.11-23.08.31:739][976]LogModuleManager: Shutting down and abandoning module AutomationWorker (764)
+[2020.12.11-23.08.31:739][976]LogModuleManager: Shutting down and abandoning module SteamVREditor (762)
+[2020.12.11-23.08.31:741][976]LogModuleManager: Shutting down and abandoning module OculusMR (760)
+[2020.12.11-23.08.31:741][976]LogModuleManager: Shutting down and abandoning module GooglePADEditor (758)
+[2020.12.11-23.08.31:741][976]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (756)
+[2020.12.11-23.08.31:741][976]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (754)
+[2020.12.11-23.08.31:744][976]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (752)
+[2020.12.11-23.08.31:745][976]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (750)
+[2020.12.11-23.08.31:751][976]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (748)
+[2020.12.11-23.08.31:752][976]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (746)
+[2020.12.11-23.08.31:752][976]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (744)
+[2020.12.11-23.08.31:752][976]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (742)
+[2020.12.11-23.08.31:752][976]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (740)
+[2020.12.11-23.08.31:752][976]LogModuleManager: Shutting down and abandoning module WebMMedia (738)
+[2020.12.11-23.08.31:753][976]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (736)
+[2020.12.11-23.08.31:755][976]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (734)
+[2020.12.11-23.08.31:756][976]LogModuleManager: Shutting down and abandoning module SequenceRecorder (733)
+[2020.12.11-23.08.31:756][976]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (730)
+[2020.12.11-23.08.31:757][976]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (728)
+[2020.12.11-23.08.31:757][976]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (726)
+[2020.12.11-23.08.31:757][976]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (724)
+[2020.12.11-23.08.31:757][976]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (722)
+[2020.12.11-23.08.31:757][976]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (720)
+[2020.12.11-23.08.31:757][976]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (718)
+[2020.12.11-23.08.31:757][976]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (716)
+[2020.12.11-23.08.31:757][976]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (714)
+[2020.12.11-23.08.31:757][976]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (712)
+[2020.12.11-23.08.31:757][976]LogModuleManager: Shutting down and abandoning module PlanarCut (710)
+[2020.12.11-23.08.31:758][976]LogModuleManager: Shutting down and abandoning module CharacterAI (708)
+[2020.12.11-23.08.31:758][976]LogModuleManager: Shutting down and abandoning module TextureAlignMode (706)
+[2020.12.11-23.08.31:758][976]LogModuleManager: Shutting down and abandoning module BspMode (704)
+[2020.12.11-23.08.31:760][976]LogModuleManager: Shutting down and abandoning module PlacementMode (703)
+[2020.12.11-23.08.31:761][976]LogModuleManager: Shutting down and abandoning module GeometryMode (700)
+[2020.12.11-23.08.31:761][976]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (698)
+[2020.12.11-23.08.31:762][976]LogModuleManager: Shutting down and abandoning module SmartSnapping (696)
+[2020.12.11-23.08.31:762][976]LogModuleManager: Shutting down and abandoning module SessionServices (694)
+[2020.12.11-23.08.31:762][976]LogModuleManager: Shutting down and abandoning module MeshPaint (692)
+[2020.12.11-23.08.31:764][976]LogModuleManager: Shutting down and abandoning module ViewportSnapping (690)
+[2020.12.11-23.08.31:764][976]LogModuleManager: Shutting down and abandoning module ViewportInteraction (688)
+[2020.12.11-23.08.31:764][976]LogModuleManager: Shutting down and abandoning module ClothPainter (686)
+[2020.12.11-23.08.31:777][976]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (685)
+[2020.12.11-23.08.31:779][976]LogModuleManager: Shutting down and abandoning module LogVisualizer (682)
+[2020.12.11-23.08.31:782][976]LogModuleManager: Shutting down and abandoning module IntroTutorials (680)
+[2020.12.11-23.08.31:783][976]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (679)
+[2020.12.11-23.08.31:784][976]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (676)
+[2020.12.11-23.08.31:784][976]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (674)
+[2020.12.11-23.08.31:785][976]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (672)
+[2020.12.11-23.08.31:785][976]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (671)
+[2020.12.11-23.08.32:601][976]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (668)
+[2020.12.11-23.08.32:601][976]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (666)
+[2020.12.11-23.08.32:601][976]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (664)
+[2020.12.11-23.08.32:601][976]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (662)
+[2020.12.11-23.08.32:601][976]LogModuleManager: Shutting down and abandoning module TraceInsights (660)
+[2020.12.11-23.08.32:618][976]LogModuleManager: Shutting down and abandoning module TraceServices (659)
+[2020.12.11-23.08.32:621][976]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (656)
+[2020.12.11-23.08.32:621][976]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (654)
+[2020.12.11-23.08.32:621][976]LogModuleManager: Shutting down and abandoning module InputBindingEditor (652)
+[2020.12.11-23.08.32:622][976]LogModuleManager: Shutting down and abandoning module MergeActors (650)
+[2020.12.11-23.08.32:624][976]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (648)
+[2020.12.11-23.08.32:626][976]LogModuleManager: Shutting down and abandoning module LocalizationService (647)
+[2020.12.11-23.08.32:627][976]LogModuleManager: Shutting down and abandoning module HardwareTargeting (644)
+[2020.12.11-23.08.32:627][976]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (642)
+[2020.12.11-23.08.32:628][976]LogModuleManager: Shutting down and abandoning module UndoHistory (640)
+[2020.12.11-23.08.32:629][976]LogModuleManager: Shutting down and abandoning module XmlParser (638)
+[2020.12.11-23.08.32:629][976]LogModuleManager: Shutting down and abandoning module Blutility (636)
+[2020.12.11-23.08.32:630][976]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (634)
+[2020.12.11-23.08.32:642][976]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (633)
+[2020.12.11-23.08.32:643][976]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (630)
+[2020.12.11-23.08.32:644][976]LogModuleManager: Shutting down and abandoning module SettingsEditor (628)
+[2020.12.11-23.08.32:645][976]LogModuleManager: Shutting down and abandoning module ProjectLauncher (626)
+[2020.12.11-23.08.32:647][976]LogModuleManager: Shutting down and abandoning module SessionFrontend (624)
+[2020.12.11-23.08.32:650][976]LogModuleManager: Shutting down and abandoning module ProfilerClient (622)
+[2020.12.11-23.08.32:650][976]LogModuleManager: Shutting down and abandoning module DeviceManager (620)
+[2020.12.11-23.08.32:652][976]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (619)
+[2020.12.11-23.08.32:683][976]LogModuleManager: Shutting down and abandoning module AutomationController (616)
+[2020.12.11-23.08.32:684][976]LogModuleManager: Shutting down and abandoning module AutomationWindow (614)
+[2020.12.11-23.08.32:685][976]LogModuleManager: Shutting down and abandoning module Layers (612)
+[2020.12.11-23.08.32:687][976]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (610)
+[2020.12.11-23.08.32:687][976]LogModuleManager: Shutting down and abandoning module DetailCustomizations (608)
+[2020.12.11-23.08.32:687][976]LogModuleManager: Shutting down and abandoning module PackagesDialog (606)
+[2020.12.11-23.08.32:710][976]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (604)
+[2020.12.11-23.08.32:715][976]LogModuleManager: Shutting down and abandoning module Persona (602)
+[2020.12.11-23.08.32:718][976]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (601)
+[2020.12.11-23.08.32:718][976]LogModuleManager: Shutting down and abandoning module AnimGraph (599)
+[2020.12.11-23.08.32:718][976]LogModuleManager: Shutting down and abandoning module Kismet (596)
+[2020.12.11-23.08.32:726][976]LogModuleManager: Shutting down and abandoning module KismetWidgets (595)
+[2020.12.11-23.08.32:726][976]LogModuleManager: Shutting down and abandoning module GraphEditor (592)
+[2020.12.11-23.08.32:726][976]LogModuleManager: Shutting down and abandoning module StructViewer (590)
+[2020.12.11-23.08.32:727][976]LogModuleManager: Shutting down and abandoning module ClassViewer (588)
+[2020.12.11-23.08.32:727][976]LogModuleManager: Shutting down and abandoning module Toolbox (586)
+[2020.12.11-23.08.32:728][976]LogModuleManager: Shutting down and abandoning module ModuleUI (584)
+[2020.12.11-23.08.32:728][976]LogModuleManager: Shutting down and abandoning module OutputLog (582)
+[2020.12.11-23.08.32:836][976]LogModuleManager: Shutting down and abandoning module GammaUI (580)
+[2020.12.11-23.08.32:837][976]LogModuleManager: Shutting down and abandoning module Documentation (578)
+[2020.12.11-23.08.32:837][976]LogModuleManager: Shutting down and abandoning module LiveCoding (576)
+[2020.12.11-23.08.32:840][976]LogModuleManager: Shutting down and abandoning module LevelSequence (574)
+[2020.12.11-23.08.32:840][976]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (572)
+[2020.12.11-23.08.32:840][976]LogModuleManager: Shutting down and abandoning module MovieScene (570)
+[2020.12.11-23.08.32:841][976]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (568)
+[2020.12.11-23.08.32:842][976]LogModuleManager: Shutting down and abandoning module LauncherPlatform (566)
+[2020.12.11-23.08.32:842][976]LogModuleManager: Shutting down and abandoning module AnalyticsET (564)
+[2020.12.11-23.08.32:842][976]LogModuleManager: Shutting down and abandoning module PortalServices (562)
+[2020.12.11-23.08.32:842][976]LogModuleManager: Shutting down and abandoning module PortalRpc (560)
+[2020.12.11-23.08.32:842][976]LogModuleManager: Shutting down and abandoning module MessagingRpc (558)
+[2020.12.11-23.08.32:842][976]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (556)
+[2020.12.11-23.08.32:842][976]LogModuleManager: Shutting down and abandoning module AudioMixerCore (555)
+[2020.12.11-23.08.32:842][976]LogModuleManager: Shutting down and abandoning module AIModule (552)
+[2020.12.11-23.08.32:843][976]LogModuleManager: Shutting down and abandoning module GameplayDebugger (551)
+[2020.12.11-23.08.32:843][976]LogModuleManager: Shutting down and abandoning module AITestSuite (549)
+[2020.12.11-23.08.32:844][976]LogModuleManager: Shutting down and abandoning module NavigationSystem (547)
+[2020.12.11-23.08.32:844][976]LogModuleManager: Shutting down and abandoning module ProfilerService (544)
+[2020.12.11-23.08.32:961][976]LogModuleManager: Shutting down and abandoning module TaskGraph (542)
+[2020.12.11-23.08.32:965][976]LogModuleManager: Shutting down and abandoning module ScreenshotTools (540)
+[2020.12.11-23.08.32:966][976]LogModuleManager: Shutting down and abandoning module SynthesisEditor (538)
+[2020.12.11-23.08.32:966][976]LogModuleManager: Shutting down and abandoning module Synthesis (536)
+[2020.12.11-23.08.32:968][976]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (534)
+[2020.12.11-23.08.32:968][976]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (532)
+[2020.12.11-23.08.32:968][976]LogModuleManager: Shutting down and abandoning module OculusEditor (530)
+[2020.12.11-23.08.32:968][976]LogModuleManager: Shutting down and abandoning module OculusInput (528)
+[2020.12.11-23.08.32:968][976]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (526)
+[2020.12.11-23.08.32:968][976]LogModuleManager: Shutting down and abandoning module GooglePAD (524)
+[2020.12.11-23.08.32:968][976]LogModuleManager: Shutting down and abandoning module EditableMesh (522)
+[2020.12.11-23.08.32:969][976]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (520)
+[2020.12.11-23.08.32:969][976]LogModuleManager: Shutting down and abandoning module CableComponent (518)
+[2020.12.11-23.08.32:969][976]LogModuleManager: Shutting down and abandoning module AudioCapture (516)
+[2020.12.11-23.08.32:969][976]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (515)
+[2020.12.11-23.08.32:970][976]LogModuleManager: Shutting down and abandoning module AssetTags (512)
+[2020.12.11-23.08.32:970][976]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (510)
+[2020.12.11-23.08.32:970][976]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (508)
+[2020.12.11-23.08.32:970][976]LogModuleManager: Shutting down and abandoning module AppleImageUtils (506)
+[2020.12.11-23.08.32:970][976]LogModuleManager: Shutting down and abandoning module AndroidPermission (504)
+[2020.12.11-23.08.32:970][976]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (502)
+[2020.12.11-23.08.32:971][976]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (500)
+[2020.12.11-23.08.32:977][976]LogModuleManager: Shutting down and abandoning module TemplateSequence (498)
+[2020.12.11-23.08.32:977][976]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (496)
+[2020.12.11-23.08.32:977][976]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (494)
+[2020.12.11-23.08.32:977][976]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (492)
+[2020.12.11-23.08.32:977][976]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (490)
+[2020.12.11-23.08.32:977][976]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (489)
+[2020.12.11-23.08.32:977][976]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (486)
+[2020.12.11-23.08.32:978][976]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (484)
+[2020.12.11-23.08.32:978][976]LogModuleManager: Shutting down and abandoning module MediaCompositing (482)
+[2020.12.11-23.08.32:978][976]LogModuleManager: Shutting down and abandoning module ImgMedia (480)
+[2020.12.11-23.08.32:978][976]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (478)
+[2020.12.11-23.08.32:978][976]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (476)
+[2020.12.11-23.08.32:978][976]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (474)
+[2020.12.11-23.08.32:978][976]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (472)
+[2020.12.11-23.08.32:978][976]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (470)
+[2020.12.11-23.08.32:979][976]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (468)
+[2020.12.11-23.08.32:985][976]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (466)
+[2020.12.11-23.08.32:986][976]LogModuleManager: Shutting down and abandoning module MeshConversion (464)
+[2020.12.11-23.08.32:987][976]LogModuleManager: Shutting down and abandoning module DynamicMesh (462)
+[2020.12.11-23.08.32:988][976]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (460)
+[2020.12.11-23.08.32:988][976]LogModuleManager: Shutting down and abandoning module GeometricObjects (458)
+[2020.12.11-23.08.32:989][976]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (456)
+[2020.12.11-23.08.32:989][976]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (455)
+[2020.12.11-23.08.32:989][976]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (452)
+[2020.12.11-23.08.32:989][976]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (450)
+[2020.12.11-23.08.32:989][976]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (448)
+[2020.12.11-23.08.32:989][976]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (446)
+[2020.12.11-23.08.32:989][976]LogModuleManager: Shutting down and abandoning module ChaosNiagara (444)
+[2020.12.11-23.08.32:989][976]LogModuleManager: Shutting down and abandoning module FractureEditor (442)
+[2020.12.11-23.08.32:990][976]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (440)
+[2020.12.11-23.08.32:990][976]LogModuleManager: Shutting down and abandoning module ChaosCloth (438)
+[2020.12.11-23.08.32:990][976]LogModuleManager: Shutting down and abandoning module BackChannel (436)
+[2020.12.11-23.08.32:991][976]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (434)
+[2020.12.11-23.08.32:991][976]LogModuleManager: Shutting down and abandoning module AutomationUtils (432)
+[2020.12.11-23.08.32:991][976]LogModuleManager: Shutting down and abandoning module AlembicImporter (430)
+[2020.12.11-23.08.32:991][976]LogModuleManager: Shutting down and abandoning module AlembicLibrary (429)
+[2020.12.11-23.08.32:991][976]LogModuleManager: Shutting down and abandoning module GeometryCache (428)
+[2020.12.11-23.08.32:991][976]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (427)
+[2020.12.11-23.08.32:991][976]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (422)
+[2020.12.11-23.08.32:991][976]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (420)
+[2020.12.11-23.08.32:992][976]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (418)
+[2020.12.11-23.08.32:992][976]LogModuleManager: Shutting down and abandoning module PluginBrowser (416)
+[2020.12.11-23.08.32:994][976]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (414)
+[2020.12.11-23.08.32:996][976]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (412)
+[2020.12.11-23.08.32:997][976]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (410)
+[2020.12.11-23.08.32:998][976]LogModuleManager: Shutting down and abandoning module CurveEditorTools (408)
+[2020.12.11-23.08.32:999][976]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (406)
+[2020.12.11-23.08.32:999][976]LogModuleManager: Shutting down and abandoning module CryptoKeys (404)
+[2020.12.11-23.08.32:999][976]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (402)
+[2020.12.11-23.08.33:000][976]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (400)
+[2020.12.11-23.08.33:000][976]LogModuleManager: Shutting down and abandoning module UObjectPlugin (398)
+[2020.12.11-23.08.33:000][976]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (396)
+[2020.12.11-23.08.33:002][976]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (394)
+[2020.12.11-23.08.33:002][976]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (392)
+[2020.12.11-23.08.33:006][976]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (390)
+[2020.12.11-23.08.33:009][976]LogModuleManager: Shutting down and abandoning module GitSourceControl (388)
+[2020.12.11-23.08.33:011][976]LogModuleManager: Shutting down and abandoning module SourceControl (387)
+[2020.12.11-23.08.33:011][976]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (384)
+[2020.12.11-23.08.33:012][976]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (382)
+[2020.12.11-23.08.33:012][976]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (380)
+[2020.12.11-23.08.33:012][976]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (378)
+[2020.12.11-23.08.33:012][976]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (376)
+[2020.12.11-23.08.33:012][976]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (374)
+[2020.12.11-23.08.33:012][976]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (372)
+[2020.12.11-23.08.33:012][976]LogModuleManager: Shutting down and abandoning module Paper2DEditor (370)
+[2020.12.11-23.08.33:014][976]LogModuleManager: Shutting down and abandoning module SoundFields (368)
+[2020.12.11-23.08.33:014][976]LogModuleManager: Shutting down and abandoning module SignificanceManager (366)
+[2020.12.11-23.08.33:014][976]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (364)
+[2020.12.11-23.08.33:014][976]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (362)
+[2020.12.11-23.08.33:014][976]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (358)
+[2020.12.11-23.08.33:014][976]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (356)
+[2020.12.11-23.08.33:016][976]LogModuleManager: Shutting down and abandoning module ApexDestruction (354)
+[2020.12.11-23.08.33:016][976]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
+[2020.12.11-23.08.33:016][976]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2020.12.11-23.08.33:117][976]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2020.12.11-23.08.33:218][976]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2020.12.11-23.08.33:218][976]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2020.12.11-23.08.33:218][976]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2020.12.11-23.08.33:218][976]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2020.12.11-23.08.33:218][976]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2020.12.11-23.08.33:218][976]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.12.11-23.08.33:218][976]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2020.12.11-23.08.33:219][976]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2020.12.11-23.08.33:219][976]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2020.12.11-23.08.33:219][976]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2020.12.11-23.08.33:219][976]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2020.12.11-23.08.33:239][976]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.12.11-23.08.33:277][976]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2020.12.11-23.08.33:278][976]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2020.12.11-23.08.33:278][976]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2020.12.11-23.08.33:278][976]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2020.12.11-23.08.33:278][976]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2020.12.11-23.08.33:278][976]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2020.12.11-23.08.33:278][976]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2020.12.11-23.08.33:282][976]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2020.12.11-23.08.33:282][976]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2020.12.11-23.08.33:284][976]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2020.12.11-23.08.33:284][976]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2020.12.11-23.08.33:284][976]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2020.12.11-23.08.33:284][976]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2020.12.11-23.08.33:286][976]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2020.12.11-23.08.33:288][976]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2020.12.11-23.08.33:288][976]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2020.12.11-23.08.33:289][976]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2020.12.11-23.08.33:289][976]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2020.12.11-23.08.33:290][976]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2020.12.11-23.08.33:290][976]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2020.12.11-23.08.33:291][976]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
+[2020.12.11-23.08.33:291][976]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2020.12.11-23.08.33:291][976]LogModuleManager: Shutting down and abandoning module Paper2D (282)
+[2020.12.11-23.08.33:291][976]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
+[2020.12.11-23.08.33:622][976]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
+[2020.12.11-23.08.33:622][976]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
+[2020.12.11-23.08.33:622][976]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
+[2020.12.11-23.08.33:622][976]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
+[2020.12.11-23.08.33:622][976]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
+[2020.12.11-23.08.33:624][976]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
+[2020.12.11-23.08.33:624][976]LogModuleManager: Shutting down and abandoning module Overlay (266)
+[2020.12.11-23.08.33:624][976]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
+[2020.12.11-23.08.33:624][976]LogModuleManager: Shutting down and abandoning module VREditor (262)
+[2020.12.11-23.08.33:625][976]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
+[2020.12.11-23.08.33:625][976]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
+[2020.12.11-23.08.33:625][976]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
+[2020.12.11-23.08.33:628][976]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
+[2020.12.11-23.08.33:629][976]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
+[2020.12.11-23.08.33:630][976]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2020.12.11-23.08.33:631][976]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2020.12.11-23.08.33:633][976]LogModuleManager: Shutting down and abandoning module MessageLog (247)
+[2020.12.11-23.08.33:633][976]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
+[2020.12.11-23.08.33:633][976]LogModuleManager: Shutting down and abandoning module ContentBrowser (244)
+[2020.12.11-23.08.33:636][976]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2020.12.11-23.08.33:641][976]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2020.12.11-23.08.33:646][976]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2020.12.11-23.08.33:646][976]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2020.12.11-23.08.33:646][976]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2020.12.11-23.08.33:646][976]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2020.12.11-23.08.33:646][976]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2020.12.11-23.08.33:646][976]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2020.12.11-23.08.33:646][976]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2020.12.11-23.08.33:646][976]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2020.12.11-23.08.33:647][976]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2020.12.11-23.08.33:647][976]LogModuleManager: Shutting down and abandoning module Core (216)
+[2020.12.11-23.08.33:647][976]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2020.12.11-23.08.33:648][976]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2020.12.11-23.08.33:650][976]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2020.12.11-23.08.33:673][976]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2020.12.11-23.08.33:688][976]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2020.12.11-23.08.33:688][976]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2020.12.11-23.08.33:689][976]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2020.12.11-23.08.33:689][976]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2020.12.11-23.08.33:689][976]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2020.12.11-23.08.33:689][976]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2020.12.11-23.08.33:690][976]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2020.12.11-23.08.33:690][976]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2020.12.11-23.08.33:692][976]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2020.12.11-23.08.33:692][976]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2020.12.11-23.08.33:692][976]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2020.12.11-23.08.33:692][976]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2020.12.11-23.08.33:692][976]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2020.12.11-23.08.33:693][976]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2020.12.11-23.08.33:729][976]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2020.12.11-23.08.33:730][976]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2020.12.11-23.08.33:731][976]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2020.12.11-23.08.33:732][976]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2020.12.11-23.08.33:732][976]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2020.12.11-23.08.33:733][976]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2020.12.11-23.08.33:733][976]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2020.12.11-23.08.33:733][976]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2020.12.11-23.08.33:733][976]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2020.12.11-23.08.33:734][976]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2020.12.11-23.08.33:734][976]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2020.12.11-23.08.33:734][976]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2020.12.11-23.08.33:734][976]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2020.12.11-23.08.33:735][976]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2020.12.11-23.08.33:735][976]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2020.12.11-23.08.33:736][976]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2020.12.11-23.08.33:736][976]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2020.12.11-23.08.33:736][976]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2020.12.11-23.08.33:736][976]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2020.12.11-23.08.33:736][976]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2020.12.11-23.08.34:551][976]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2020.12.11-23.08.34:765][976]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2020.12.11-23.08.34:765][976]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2020.12.11-23.08.34:766][976]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2020.12.11-23.08.34:766][976]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2020.12.11-23.08.34:767][976]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2020.12.11-23.08.34:768][976]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2020.12.11-23.08.34:768][976]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.12.11-23.08.34:768][976]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2020.12.11-23.08.34:768][976]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2020.12.11-23.08.34:886][976]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2020.12.11-23.08.35:514][976]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2020.12.11-23.08.35:514][976]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2020.12.11-23.08.35:514][976]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2020.12.11-23.08.35:514][976]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2020.12.11-23.08.35:540][976]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2020.12.11-23.08.35:540][976]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2020.12.11-23.08.35:541][976]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2020.12.11-23.08.35:541][976]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2020.12.11-23.08.35:541][976]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2020.12.11-23.08.35:541][976]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2020.12.11-23.08.35:543][976]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2020.12.11-23.08.35:544][976]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2020.12.11-23.08.35:544][976]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2020.12.11-23.08.35:544][976]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2020.12.11-23.08.35:545][976]LogHMD: Freeing OpenVRDLLHandle.
+[2020.12.11-23.08.35:545][976]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2020.12.11-23.08.35:545][976]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2020.12.11-23.08.35:545][976]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2020.12.11-23.08.35:545][976]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2020.12.11-23.08.35:545][976]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2020.12.11-23.08.35:572][976]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2020.12.11-23.08.35:573][976]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2020.12.11-23.08.35:634][976]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2020.12.11-23.08.35:634][976]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.12.11-23.08.35:634][976]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B24613FEA-4AD4-49E2-D0EA-0A98831D4E09%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=1b0f5ebe4235606a2f95cab62684b1c8%7Cac94bc907ce04e6fab29c9b622453b58%7C614488dc-8e48-4b88-a9f6-ebbf0c872c98&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.12.11-23.08.35:659][976]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2020.12.11-23.08.35:757][976]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2020.12.11-23.08.35:796][976]LogModuleManager: Shutting down and abandoning module Media (61)
+[2020.12.11-23.08.35:797][976]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2020.12.11-23.08.35:797][976]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2020.12.11-23.08.35:801][976]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2020.12.11-23.08.35:801][976]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.12.11-23.08.35:801][976]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.12.11-23.08.35:801][976]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.12.11-23.08.35:801][976]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.12.11-23.08.35:802][976]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.12.11-23.08.35:813][976]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.12.11-23.08.35:813][976]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.12.11-23.08.35:813][976]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.12.11-23.08.35:815][976]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.12.11-23.08.35:817][976]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.12.11-23.08.35:853][976]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.12.11-23.08.35:854][976]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.12.11-23.08.35:854][976]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.12.11-23.08.35:854][976]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.12.11-23.08.35:995][976]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.12.11-23.08.35:996][976]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.12.11-23.08.35:996][976]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.12.11-23.08.35:996][976]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.12.11-23.08.35:997][976]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.12.11-23.08.35:997][976]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.12.11-23.08.35:997][976]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.12.11-23.08.35:997][976]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.12.11-23.08.35:997][976]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.12.11-23.08.35:998][976]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.12.11-23.08.35:998][976]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.12.11-23.08.35:998][976]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.12.11-23.08.36:016][976]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
