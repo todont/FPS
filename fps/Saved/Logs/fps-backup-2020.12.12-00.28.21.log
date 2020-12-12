@@ -1,0 +1,862 @@
+﻿Log file open, 12/12/20 02:58:57
+LogInit: Display: Running engine for game: fps
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.731810
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 1060
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Павел/Documents/GitHub/FPS/fps/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Павел/Documents/GitHub/FPS/fps/Saved/Config/Windows/Engine.ini]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Павел/Documents/GitHub/FPS/fps/Saved/Config/Windows/Engine.ini]
+[2020.12.11-23.58.58:328][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Павел/Documents/GitHub/FPS/fps/Saved/Config/Windows/Engine.ini]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Павел/Documents/GitHub/FPS/fps/Saved/Config/Windows/Engine.ini]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.11-23.58.58:328][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Павел/Documents/GitHub/FPS/fps/Saved/Config/Windows/Engine.ini]
+[2020.12.11-23.58.58:328][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Павел/Documents/GitHub/FPS/fps/Saved/Config/Windows/Engine.ini]
+[2020.12.11-23.58.58:331][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Павел/Documents/GitHub/FPS/fps/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-23.58.58:331][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.11-23.58.58:331][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.11-23.58.58:331][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Павел/Documents/GitHub/FPS/fps/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-23.58.58:331][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.11-23.58.58:331][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Павел/Documents/GitHub/FPS/fps/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-23.58.58:331][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.11-23.58.58:331][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.11-23.58.58:331][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.11-23.58.58:331][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.11-23.58.58:331][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.11-23.58.58:331][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.11-23.58.58:331][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.11-23.58.58:331][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.11-23.58.58:331][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.11-23.58.58:331][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.11-23.58.58:331][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Павел/Documents/GitHub/FPS/fps/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Павел/Documents/GitHub/FPS/fps/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Павел/Documents/GitHub/FPS/fps/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.11-23.58.58:332][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Павел/Documents/GitHub/FPS/fps/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Павел/Documents/GitHub/FPS/fps/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.12.11-23.58.58:333][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.11-23.58.58:333][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.11-23.58.58:333][  0]LogHAL: Display: Platform has ~ 8 GB [8544792576 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.11-23.58.58:333][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.11-23.58.58:333][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Павел/Documents/GitHub/FPS/fps/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Павел/Documents/GitHub/FPS/fps/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Павел/Documents/GitHub/FPS/fps/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Павел/Documents/GitHub/FPS/fps/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.11-23.58.58:333][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Павел/Documents/GitHub/FPS/fps/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Павел/Documents/GitHub/FPS/fps/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.11-23.58.58:334][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Павел/Documents/GitHub/FPS/fps/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-23.58.58:335][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.11-23.58.58:335][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.11-23.58.58:335][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Павел/Documents/GitHub/FPS/fps/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-23.58.58:335][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.11-23.58.58:335][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.11-23.58.58:335][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.11-23.58.58:335][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.12.11-23.58.58:335][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.12.11-23.58.58:335][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.12.11-23.58.58:335][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.12.11-23.58.58:335][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.11-23.58.58:335][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.11-23.58.58:335][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.11-23.58.58:335][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.12.11-23.58.58:335][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Павел/Documents/GitHub/FPS/fps/Saved/Config/Windows/Engine.ini]
+[2020.12.11-23.58.58:337][  0]LogInit: Computer: DESKTOP-G771HNF
+[2020.12.11-23.58.58:337][  0]LogInit: User: Павел
+[2020.12.11-23.58.58:337][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.12.11-23.58.58:337][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.11-23.58.58:337][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2020.12.11-23.58.58:337][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.11-23.58.58:337][  0]LogMemory: Process Physical Memory: 115.90 MB used, 115.90 MB peak
+[2020.12.11-23.58.58:337][  0]LogMemory: Process Virtual Memory: 104.07 MB used, 104.07 MB peak
+[2020.12.11-23.58.58:337][  0]LogMemory: Physical Memory: 6646.92 MB used,  1502.03 MB free, 8148.95 MB total
+[2020.12.11-23.58.58:337][  0]LogMemory: Virtual Memory: 5118.83 MB used,  134212608.00 MB free, 134217728.00 MB total
+[2020.12.11-23.58.58:344][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.11-23.58.58:415][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.12.11-23.58.58:419][  0]LogInit: Using OS detected language (ru-RU).
+[2020.12.11-23.58.58:419][  0]LogInit: Using OS detected locale (ru-RU).
+[2020.12.11-23.58.58:426][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2020.12.11-23.58.58:427][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2020.12.11-23.58.58:427][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2020.12.11-23.58.58:427][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2020.12.11-23.58.58:427][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2020.12.11-23.58.58:427][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2020.12.11-23.58.58:427][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2020.12.11-23.58.58:427][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2020.12.11-23.58.58:430][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.11-23.58.58:479][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.11-23.58.58:479][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.11-23.58.58:831][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.11-23.58.58:831][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.12.11-23.58.58:831][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.12.11-23.58.58:831][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.11-23.58.59:009][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2020.12.11-23.58.59:009][  0]LogD3D11RHI:       2987/0/4074 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.12.11-23.58.59:012][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.11-23.58.59:012][  0]LogD3D11RHI:       0/0/4074 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.11-23.58.59:012][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.11-23.58.59:021][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.11-23.58.59:022][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.12.11-23.58.59:022][  0]LogWindows: EnumDisplayDevices:
+[2020.12.11-23.58.59:022][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2020.12.11-23.58.59:022][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.12.11-23.58.59:023][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.12.11-23.58.59:023][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.12.11-23.58.59:023][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.12.11-23.58.59:023][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2020.12.11-23.58.59:023][  0]LogD3D11RHI:   Driver Version: 451.67 (internal:27.21.14.5167, unified:451.67)
+[2020.12.11-23.58.59:023][  0]LogD3D11RHI:      Driver Date: 7-5-2020
+[2020.12.11-23.58.59:023][  0]LogRHI: Texture pool is 2090 MB (70% of 2987 MB)
+[2020.12.11-23.58.59:105][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.12.11-23.58.59:107][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.12.11-23.58.59:107][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.11-23.58.59:107][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.12.11-23.58.59:148][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.11-23.58.59:666][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.12.11-23.58.59:692][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.12.11-23.58.59:692][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.12.11-23.58.59:692][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.12.11-23.58.59:692][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.12.11-23.58.59:692][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.12.11-23.58.59:692][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.11-23.58.59:692][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.12.11-23.58.59:692][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.11-23.58.59:692][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.12.11-23.58.59:692][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.12.11-23.58.59:723][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.12.11-23.58.59:724][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.12.11-23.58.59:740][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.12.11-23.58.59:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.11-23.58.59:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.12.11-23.58.59:781][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.12.11-23.58.59:793][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.12.11-23.58.59:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.12.11-23.58.59:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.12.11-23.58.59:853][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.12.11-23.58.59:853][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.12.11-23.58.59:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.12.11-23.58.59:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.12.11-23.58.59:888][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.11-23.58.59:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.12.11-23.58.59:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.12.11-23.58.59:928][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.12.11-23.58.59:928][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.11-23.58.59:948][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.11-23.59.00:066][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Intermediate/Shaders/WorkingDirectory/11668/).
+[2020.12.11-23.59.00:066][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Павел/AppData/Local/Temp/UnrealShaderWorkingDir/7C697E93481E110F88EF41A6389AB443/'.
+[2020.12.11-23.59.00:073][  0]LogXGEController: Cleaning working directory: C:/Users/Павел/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.12.11-23.59.00:073][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.11-23.59.00:073][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.11-23.59.00:073][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.11-23.59.01:208][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.11-23.59.01:478][  0]LogDerivedDataCache: Loaded boot cache 0.27s 75MB C:/Users/Павел/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.12.11-23.59.01:478][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Павел/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.12.11-23.59.01:478][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Павел/Documents/GitHub/FPS/fps/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.11-23.59.01:478][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.11-23.59.01:478][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Павел/Documents/GitHub/FPS/fps/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.11-23.59.01:478][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.11-23.59.01:490][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.11-23.59.01:490][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.11-23.59.01:490][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.11-23.59.01:505][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Павел/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.11-23.59.01:505][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.11-23.59.01:505][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.11-23.59.01:567][  0]LogSlate: Using FreeType 2.10.0
+[2020.12.11-23.59.01:581][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.11-23.59.01:626][  0]LogAssetRegistry: FAssetRegistry took 0.0051 seconds to start up
+[2020.12.11-23.59.01:987][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.11-23.59.02:211][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.11-23.59.02:211][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.11-23.59.02:211][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.11-23.59.02:211][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.11-23.59.02:212][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.11-23.59.02:250][  0]LogNetVersion: fps 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3609810005)
+[2020.12.11-23.59.03:308][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000002670E67D340), frame # 0
+[2020.12.11-23.59.03:308][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002670E5AEAC0), frame # 0
+[2020.12.11-23.59.03:309][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002670E5FDC00), frame # 0
+[2020.12.11-23.59.03:364][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.039603 seconds
+[2020.12.11-23.59.03:369][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.12.11-23.59.03:370][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.12.11-23.59.03:370][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.11-23.59.04:512][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.11-23.59.04:525][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.11-23.59.05:469][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2020.12.11-23.59.05:470][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2020.12.11-23.59.05:470][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2020.12.11-23.59.05:560][  0]SourceControl: Source control is disabled
+[2020.12.11-23.59.05:561][  0]SourceControl: Source control is disabled
+[2020.12.11-23.59.05:582][  0]SourceControl: Source control is disabled
+[2020.12.11-23.59.05:593][  0]SourceControl: Source control is disabled
+[2020.12.11-23.59.05:619][  0]SourceControl: Source control is disabled
+[2020.12.11-23.59.06:603][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.11-23.59.06:666][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.11-23.59.06:666][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.11-23.59.06:785][  0]LogOcInput: OculusInput pre-init called
+[2020.12.11-23.59.06:812][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.11-23.59.06:812][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.11-23.59.06:969][  0]LogEngine: Initializing Engine...
+[2020.12.11-23.59.06:971][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.11-23.59.06:972][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.12.11-23.59.06:974][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.12.11-23.59.07:174][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.11-23.59.07:196][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.11-23.59.07:196][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026713E4BC00), frame # 0
+[2020.12.11-23.59.07:196][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026713EA9300), frame # 0
+[2020.12.11-23.59.07:440][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.11-23.59.07:440][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.11-23.59.07:440][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.11-23.59.07:440][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.11-23.59.07:440][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.11-23.59.07:440][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.11-23.59.07:440][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.11-23.59.07:440][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.11-23.59.07:441][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.11-23.59.07:442][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.11-23.59.07:480][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.11-23.59.07:480][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.11-23.59.08:098][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.12.11-23.59.08:104][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.11-23.59.08:108][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.11-23.59.08:109][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.11-23.59.08:111][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.11-23.59.08:113][  0]LogInit: FAudioDevice initialized.
+[2020.12.11-23.59.08:114][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.11-23.59.08:259][  0]LogDerivedDataCache: Saved boot cache 0.14s 75MB C:/Users/Павел/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.12.11-23.59.08:261][  0]LogInit: Texture streaming: Enabled
+[2020.12.11-23.59.08:318][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.11-23.59.08:318][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.11-23.59.08:334][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.11-23.59.08:408][  0]LogInit: Transaction tracking system initialized
+[2020.12.11-23.59.08:552][  0]BlueprintLog: New page: Editor Load
+[2020.12.11-23.59.08:833][  0]LocalizationService: Localization service is disabled
+[2020.12.11-23.59.09:501][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.11-23.59.09:501][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.11-23.59.10:163][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Павел/Documents/GitHub/FPS/fps/Content/' took 0.02s
+[2020.12.11-23.59.10:890][  0]SourceControl: Source control is disabled
+[2020.12.11-23.59.10:890][  0]LogUnrealEdMisc: Loading editor; pre map load, took 16.148
+[2020.12.11-23.59.10:891][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.11-23.59.10:891][  0]LightingResults: New page: Lighting Build
+[2020.12.11-23.59.10:893][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.11-23.59.10:893][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.11-23.59.10:893][  0]MapCheck: New page: Map Check
+[2020.12.11-23.59.10:893][  0]LightingResults: New page: Lighting Build
+[2020.12.11-23.59.10:912][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000026713E4BC00), frame # 0
+[2020.12.11-23.59.10:912][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026713EA9300), frame # 0
+[2020.12.11-23.59.10:914][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.12.11-23.59.12:437][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.12.11-23.59.12:437][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002670DD1DE00), frame # 0
+[2020.12.11-23.59.12:438][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000267058C5940), frame # 0
+[2020.12.11-23.59.12:584][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.11-23.59.12:604][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.12.11-23.59.12:604][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.11-23.59.12:604][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,178ms to complete.
+[2020.12.11-23.59.12:604][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.714
+[2020.12.11-23.59.13:153][  0]LogUnrealEdMisc: Total Editor Startup Time, took 18.411
+[2020.12.11-23.59.13:568][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-23.59.13:577][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-23.59.13:586][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-23.59.13:594][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-23.59.13:614][  0]LogCollectionManager: Loaded 0 collections in 0.002738 seconds
+[2020.12.11-23.59.13:635][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Павел/Documents/GitHub/FPS/fps/Saved/Collections/' took 0.00s
+[2020.12.11-23.59.13:635][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Павел/Documents/GitHub/FPS/fps/Content/Developers/Павел/Collections/' took 0.00s
+[2020.12.11-23.59.13:635][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Павел/Documents/GitHub/FPS/fps/Content/Collections/' took 0.00s
+[2020.12.11-23.59.13:635][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 3436 classes and 826 folders.
+[2020.12.11-23.59.13:646][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.12.11-23.59.15:801][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.12.11-23.59.15:810][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2020.12.11-23.59.16:413][  0]LogSlate: Took 0.001561 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.11-23.59.16:416][  0]LogSlate: Took 0.001516 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.11-23.59.16:422][  0]LogSlate: Took 0.001347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.11-23.59.16:529][  0]LogRenderer: Reallocating scene render targets to support 1208x592 Format 10 NumSamples 1 (Frame:1).
+[2020.12.11-23.59.17:239][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.11-23.59.17:239][  0]LogLoad: (Engine Initialization) Total time: 22.50 seconds
+[2020.12.11-23.59.17:239][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.11-23.59.17:318][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.11-23.59.17:351][  0]LogSlate: Took 0.001414 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.11-23.59.17:369][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Павел/Documents/GitHub/FPS/fps/Content/' took 0.10s
+[2020.12.11-23.59.17:378][  1]LogAssetRegistry: Asset discovery search completed in 15.7559 seconds
+[2020.12.11-23.59.17:387][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.12.11-23.59.18:314][ 51]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.12-00.00.05:957][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.12.12-00.00.11:753][833]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.12-00.00.12:650][833]LogUObjectGlobals: Force Deleting 9 Package(s):
+	Asset Name: /Game/Anims/Character/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+	Asset Name: /Game/Anims/Character/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+	Asset Name: /Game/Anims/Character/ThirdPerson_Jump.ThirdPerson_Jump
+	Asset Name: /Game/Anims/Character/ThirdPersonIdle.ThirdPersonIdle
+	Asset Name: /Game/Anims/Character/ThirdPersonJump_End.ThirdPersonJump_End
+	Asset Name: /Game/Anims/Character/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+	Asset Name: /Game/Anims/Character/ThirdPersonJump_Start.ThirdPersonJump_Start
+	Asset Name: /Game/Anims/Character/ThirdPersonRun.ThirdPersonRun
+	Asset Name: /Game/Anims/Character/ThirdPersonWalk.ThirdPersonWalk
+[2020.12.12-00.00.14:295][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.12.12-00.00.14:308][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.12.12-00.00.14:317][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.12.12-00.00.14:328][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.12.12-00.00.14:337][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.12.12-00.00.14:347][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2020.12.12-00.00.14:357][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.12-00.00.14:366][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.12.12-00.00.14:376][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.12-00.00.14:386][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.12.12-00.00.14:396][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.12-00.00.42:159][492]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Blueprints/ThirdPersonCharacter.uasset' failed to load '/Game/Anims/Character/ThirdPerson_AnimBP': Can't find file.
+[2020.12.12-00.00.42:159][492]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Blueprints/ThirdPersonCharacter.uasset' failed to load '/Game/Anims/Character/ThirdPerson_AnimBP': Can't find file.
+[2020.12.12-00.00.42:160][492]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Blueprints/ThirdPersonCharacter.uasset' failed to load '/Game/Anims/Character/ThirdPerson_AnimBP': Can't find file.
+[2020.12.12-00.00.42:160][492]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Blueprints/ThirdPersonCharacter.uasset' failed to load '/Game/Anims/Character/ThirdPerson_AnimBP': Can't find file.
+[2020.12.12-00.00.42:172][492]LogLinker: Warning: Failed to load '/Game/Anims/Character/ThirdPerson_AnimBP': Can't find file.
+[2020.12.12-00.00.42:172][492]LogLinker: Warning: Failed to load '/Game/Anims/Character/ThirdPerson_AnimBP': Can't find file.
+[2020.12.12-00.00.42:172][492]LogLinker: Warning: Failed to load '/Game/Anims/Character/ThirdPerson_AnimBP': Can't find file.
+[2020.12.12-00.00.42:173][492]LogLinker: Warning: Failed to load '/Game/Anims/Character/ThirdPerson_AnimBP': Can't find file.
+[2020.12.12-00.00.42:173][492]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Blueprints/ThirdPersonCharacter.uasset' failed to load '/Game/Anims/Character/ThirdPerson_AnimBP': Can't find file.
+[2020.12.12-00.00.42:173][492]LoadErrors: Failed to load /Game/Anims/Character/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C Referenced by Default__ThirdPersonCharacter_C
+[2020.12.12-00.00.42:173][492]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Blueprints/ThirdPersonCharacter.uasset' failed to load '/Game/Anims/Character/ThirdPerson_AnimBP': Can't find file.
+[2020.12.12-00.00.42:199][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.12.12-00.00.43:097][492]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.12-00.00.43:200][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.12.12-00.00.43:223][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.12.12-00.00.43:234][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.12.12-00.00.44:563][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.12.12-00.00.45:597][571]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.12-00.00.45:698][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.12.12-00.00.45:722][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.12.12-00.00.45:732][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.12.12-00.01.40:524][850]LogObjectTools: Deleting 1 worlds: /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.12.12-00.01.40:524][850]LogObjectTools: Currently 8 active worlds: /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6
+[2020.12.12-00.01.42:871][850]LogSlate: Window 'Unable to delete level' being destroyed
+[2020.12.12-00.01.42:877][850]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2020.12.12-00.01.47:035][ 98]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/NewMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2020.12.12-00.01.47:035][ 98]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/NewMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2020.12.12-00.01.47:062][ 98]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/NewMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2020.12.12-00.01.47:062][ 98]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/NewMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2020.12.12-00.01.47:068][ 98]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/NewMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2020.12.12-00.01.47:068][ 98]LoadErrors: Failed to load /Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C Referenced by WorldSettings_1
+[2020.12.12-00.01.47:069][ 98]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/NewMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2020.12.12-00.01.47:161][ 98]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/NewMap.NewMap
+[2020.12.12-00.01.47:172][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.12.12-00.01.47:175][ 98]Cmd: MAP LOAD FILE="../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.12-00.01.47:175][ 98]LightingResults: New page: Lighting Build
+[2020.12.12-00.01.47:175][ 98]LoadErrors: New page: Loading map: NewMap.umap
+[2020.12.12-00.01.47:180][ 98]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-00.01.47:181][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-00.01.47:181][ 98]MapCheck: New page: Map Check
+[2020.12.12-00.01.47:181][ 98]LightingResults: New page: Lighting Build
+[2020.12.12-00.01.47:200][ 98]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002670DD1DE00), frame # 8098
+[2020.12.12-00.01.47:200][ 98]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000267058C5940), frame # 8098
+[2020.12.12-00.01.47:201][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.12.12-00.01.47:288][ 98]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.12-00.01.47:288][ 98]LogAIModule: Creating AISystem for world NewMap
+[2020.12.12-00.01.47:288][ 98]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000267930B2000), frame # 8098
+[2020.12.12-00.01.47:288][ 98]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002670C22A200), frame # 8098
+[2020.12.12-00.01.47:301][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.12.12-00.01.47:327][ 98]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.12-00.01.47:328][ 98]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,215ms to complete.
+[2020.12.12-00.01.47:328][ 98]LogFileHelpers: Loading map 'NewMap' took 0.153
+[2020.12.12-00.01.49:298][213]LogObjectTools: Deleting 1 worlds: /Game/Maps/NewMap.NewMap
+[2020.12.12-00.01.49:298][213]LogObjectTools: Currently 8 active worlds: /Game/Maps/NewMap.NewMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6
+[2020.12.12-00.01.52:142][213]LogSlate: Window 'Unable to delete level' being destroyed
+[2020.12.12-00.01.52:150][213]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2020.12.12-00.01.53:990][296]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.12.12-00.01.54:001][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.12.12-00.01.54:003][296]Cmd: MAP LOAD FILE="../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.12-00.01.54:003][296]LightingResults: New page: Lighting Build
+[2020.12.12-00.01.54:004][296]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2020.12.12-00.01.54:004][296]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-00.01.54:004][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-00.01.54:004][296]MapCheck: New page: Map Check
+[2020.12.12-00.01.54:004][296]LightingResults: New page: Lighting Build
+[2020.12.12-00.01.54:016][296]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002670C22A200), frame # 8296
+[2020.12.12-00.01.54:016][296]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000267930B2000), frame # 8296
+[2020.12.12-00.01.54:017][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.12.12-00.01.54:164][296]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.12-00.01.54:164][296]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.12.12-00.01.54:165][296]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026731096A00), frame # 8296
+[2020.12.12-00.01.54:165][296]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000267059A2AC0), frame # 8296
+[2020.12.12-00.01.54:178][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.12.12-00.01.54:204][296]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.12-00.01.54:204][296]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,132ms to complete.
+[2020.12.12-00.01.54:204][296]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.200
+[2020.12.12-00.01.55:328][359]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/NewMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2020.12.12-00.01.55:329][359]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/NewMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2020.12.12-00.01.55:331][359]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/NewMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2020.12.12-00.01.55:331][359]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/NewMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2020.12.12-00.01.55:335][359]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/NewMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2020.12.12-00.01.55:335][359]LoadErrors: Failed to load /Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C Referenced by WorldSettings_1
+[2020.12.12-00.01.55:335][359]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/NewMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2020.12.12-00.01.56:802][440]LogObjectTools: Deleting 1 worlds: /Game/Maps/NewMap.NewMap
+[2020.12.12-00.01.56:802][440]LogObjectTools: Currently 8 active worlds: /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6
+[2020.12.12-00.01.56:811][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.12.12-00.01.57:963][440]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.12-00.01.57:997][440]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-00.01.57:998][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-00.01.58:078][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.12.12-00.01.58:090][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.12.12-00.01.58:127][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.12.12-00.01.58:137][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.12.12-00.01.59:671][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:671][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:671][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:671][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:672][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2020.12.12-00.01.59:672][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2020.12.12-00.01.59:672][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:672][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:672][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:673][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:673][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:673][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:674][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:674][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:685][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:685][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:685][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2020.12.12-00.01.59:685][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2020.12.12-00.01.59:685][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:686][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:686][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:686][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:686][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:686][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:686][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:687][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:687][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:687][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:688][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:688][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:688][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:688][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:688][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2020.12.12-00.01.59:689][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2020.12.12-00.01.59:689][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:689][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:689][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:689][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:690][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:690][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:690][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:690][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:691][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:691][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:691][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2020.12.12-00.01.59:691][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2020.12.12-00.01.59:691][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:691][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:692][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:692][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:692][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:692][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:692][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:692][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:692][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:693][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:693][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:693][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:694][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:694][530]LogLinker: Warning: Failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.12.12-00.01.59:698][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2020.12.12-00.01.59:698][530]LoadErrors: Failed to load /Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C Referenced by WorldInfo_0
+[2020.12.12-00.01.59:698][530]LogLinker: Warning: While loading '../../../../../../Users/Павел/Documents/GitHub/FPS/fps/Content/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Blueprints/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2020.12.12-00.01.59:786][530]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Arrow': FirstPersonCharacter_C /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+[2020.12.12-00.01.59:786][530]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'FirstPersonCamera': FirstPersonCharacter_C /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+[2020.12.12-00.01.59:786][530]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CollisionCylinder': FirstPersonCharacter_C /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+[2020.12.12-00.01.59:786][530]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharMoveComp': FirstPersonCharacter_C /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+[2020.12.12-00.01.59:786][530]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharacterMesh0': FirstPersonCharacter_C /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+[2020.12.12-00.01.59:786][530]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'FP_Gun': FirstPersonCharacter_C /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+[2020.12.12-00.01.59:786][530]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Mesh2P': FirstPersonCharacter_C /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+[2020.12.12-00.01.59:786][530]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Sphere': FirstPersonCharacter_C /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+[2020.12.12-00.01.59:786][530]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Sphere1': FirstPersonCharacter_C /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+[2020.12.12-00.02.01:515][629]LogObjectTools: Deleting 1 worlds: /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.12.12-00.02.01:515][629]LogObjectTools: Currently 8 active worlds: /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6
+[2020.12.12-00.02.01:527][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.12.12-00.02.02:706][629]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.12-00.02.02:730][629]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-00.02.02:730][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-00.02.02:811][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.12.12-00.02.02:823][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.12.12-00.02.02:842][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.12.12-00.02.02:853][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
